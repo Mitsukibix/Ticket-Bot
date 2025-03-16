@@ -1,0 +1,10 @@
+{
+  "token": "Bot Tokeni Girin",
+  "clientId": "Bot İd Girin",
+  "guildId": "Sunucu id Girin",
+  "adminUserId": "Owner id Girin",
+  "supportRoleId": "Ticket Yetkili Rol id Girin",
+  "logChannelId": "Log Kanalı idsi Girin",
+  "ticketCategory": "Ticketların Bulundağı Kategori İsmi Girin Bot kendisi Oluşturcak Kategoriyi Siz İsim Belirleyin",
+  "embedColor": "#2B65EC"
+}
